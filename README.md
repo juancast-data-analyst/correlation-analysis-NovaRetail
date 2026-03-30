@@ -77,6 +77,6 @@ Para ello, el proyecto construye un análisis correlacional estructurado que com
 
 ---
 
-👤 Autor Juan Castelblanco - Analista de Datos - ConnectaTel Sprint 7 - Análisis de Comportamiento de Clientes 2024
+👤 Autor Juan Castelblanco - Analista de Datos - Sprint 8 - Análisis de Factores de Comportamiento de Clientes 2024 NovaRetail
 
 📝 Licencia Este proyecto es de uso educativo y forma parte del programa de análisis de datos.
